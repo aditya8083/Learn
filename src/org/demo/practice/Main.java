@@ -12,7 +12,7 @@ public class Main {
 		private static void displayGreetings() {
 			System.out.println("hello gud morning");
 			System.out.println("Do Coding");
-			System.out.println("relax");
+			System.out.println("relax chill have a break, go to naturals and eat the best icecream ");
 			System.out.println("First push on git");
 			
 		
